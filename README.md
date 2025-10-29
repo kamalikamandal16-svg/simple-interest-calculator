@@ -1,2 +1,2 @@
 # simple-interest-calculator
-“Final Project for Git and GitHub Course.”
+This project demonstrates the use of GitHub features and collaboration workflow.
