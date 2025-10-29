@@ -26,7 +26,7 @@ Project maintainers are responsible for clarifying and enforcing our standards o
 ## Reporting Guidelines
 If you are subject to or witness unacceptable behavior, please report it as soon as possible:
 
-- Email: `<your-email>@example.com`
+- Email: kamalikamandal16@gmail.com
 - Provide:
   - A short description of the incident
   - Names/handles of those involved (if known)
@@ -49,6 +49,6 @@ This Code of Conduct is adapted from the [Contributor Covenant v2.1](https://www
 
 ---
 
-**Project Maintainer Contact:** Kamalika Mandal — `<your-email>@example.com`
+**Project Maintainer Contact:** Kamalika Mandal — kamalikamandal16@gmail.com
 
 Thank you for helping make this community welcoming and productive!
